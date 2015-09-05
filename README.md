@@ -4,8 +4,8 @@
 * [Recherche client](https://github.com/projetinformatique/recherche-client) : archivage de toutes les démarches effectuées pour trouver un client
 
 ## Ressources
+* [Groupe facebook](https://www.facebook.com/groups/486236461549972)
 * Traitement de texte : Libreoffice Writer vs Word ?
-* Discussions : [facebook](https://www.facebook.com/groups/486236461549972)
 * Diagrammes UML : 
 * Moteur de base de données :
 
