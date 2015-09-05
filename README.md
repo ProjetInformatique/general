@@ -5,7 +5,7 @@
 
 ## Ressources
 * Traitement de texte : Libreoffice Writer vs Word ?
-* Discussions : mails vs facebook ?
+* Discussions : [facebook](https://www.facebook.com/groups/486236461549972)
 * Diagrammes UML : 
 * Moteur de base de données :
 
