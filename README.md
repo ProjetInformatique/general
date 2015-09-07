@@ -5,6 +5,7 @@
 
 ## Ressources
 * [Groupe facebook](https://www.facebook.com/groups/486236461549972)
+* [Google Drive](https://drive.google.com/drive/folders/0B7ydo5GAlSJDclhiSmxvNFFZRGM)
 * Traitement de texte : Libreoffice Writer vs Word ?
 * Diagrammes UML : 
 * Moteur de base de données :
